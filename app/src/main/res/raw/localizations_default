@@ -1,0 +1,31 @@
+{
+  "default": "en",
+  "languagePack": [
+    {
+      "locales": [
+        "en"
+      ],
+      "text": {
+        "MOST RECENT": "MOST RECENT"
+      }
+    },
+    {
+      "locales": [
+        "pt",
+        "pt-BR"
+      ],
+      "text": {
+        "MOST RECENT": "TÓPICO MAIS"
+      }
+    },
+    {
+      "locales": [
+        "zh",
+        "zh-HK"
+      ],
+      "text": {
+        "MOST RECENT": "最新話題"
+      }
+    }
+  ]
+}
